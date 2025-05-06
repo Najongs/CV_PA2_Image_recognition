@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # dataset
-caltech/
+caltech20/
 
 # Distribution / packaging
 .Python
